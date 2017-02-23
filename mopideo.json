@@ -18,12 +18,6 @@
 				"versionName": "0.1.4",
 				"checksum": "1e34f3fe50860a90442d8ffb9de8e0ca9b3676f4",
 				"updateUrl": "https://get.popcorntime.sh/repo/build/0.1.4/tv-x86-release-0.1.4.apk"
-			},
-			"x86_64": {
-				"versionCode": 40000108,
-				"versionName": "0.1.4",
-				"checksum": "47767e1d2f66076d513f0316dc1fb58da89fc09b",
-				"updateUrl": "https://get.popcorntime.sh/repo/build/0.1.4/tv-x86_64-release-0.1.4.apk"
 			}
 		}
 	},
@@ -33,25 +27,19 @@
 				"versionCode": 20000108,
 				"versionName": "0.2.9",
 				"checksum": "d22af2ad2675405c6678bbb22da7306b00a378d3",
-				"updateUrl": "https://get.popcorntime.sh/repo/android/0.2.9/mobile-armeabi-v7a-release-0.2.9.apk"
+				"updateUrl": "https://docs.google.com/uc?export=&id=0BzctBW9L1J1LWHp0eFg2T3VtT0k"
 			},
 			"arm64-v8a": {
 				"versionCode": 30000108,
 				"versionName": "0.2.9",
 				"checksum": "34575668decde1922b9a2ee85e78cb5506bbbfe6",
-				"updateUrl": "https://get.popcorntime.sh/repo/android/0.2.9/mobile-arm64-v8a-release-0.2.9.apk"
+				"updateUrl": "https://docs.google.com/uc?export=&id=0BzctBW9L1J1LdjBrTldWM3VkbFU"
 			},
 			"x86": {
 				"versionCode": 40000108,
 				"versionName": "0.2.9",
 				"checksum": "32b87867f50c2968fd0575043902380b54070583",
-				"updateUrl": "https://get.popcorntime.sh/repo/android/0.2.9/mobile-x86-release-0.2.9.apk"
-			},
-			"x86_64": {
-				"versionCode": 50000108,
-				"versionName": "0.2.9",
-				"checksum": "a9d473748cf0e85937955dd176f056738947dab9",
-				"updateUrl": "https://get.popcorntime.sh/repo/android/0.2.9/mobile-x86_64-release-0.2.9.apk"
+				"updateUrl": "https://docs.google.com/uc?export=&id=0BzctBW9L1J1LWENOY2NJUkdWSkE"
 			}
 		}
 	}
